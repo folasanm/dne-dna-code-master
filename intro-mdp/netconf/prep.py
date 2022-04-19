@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 """This script simply imports in the lab environment details.
 
 This script is offered for convenience to import in the lab environment
